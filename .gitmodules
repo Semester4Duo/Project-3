@@ -1,0 +1,3 @@
+[submodule "App"]
+	path = App
+	url = https://github.com/Semester4Duo/Project-3-App
